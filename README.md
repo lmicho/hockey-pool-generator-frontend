@@ -25,7 +25,6 @@ Web application to help poolers to build the perfect pool according to selected 
     - [Development](#development)
     - [Build](#build)
     - [JavaScript Lint](#javascript-lint)
-    - [Flow Lint](#flow-lint)
     - [Test](#test)
 
 ---
@@ -116,21 +115,14 @@ The above command is used to build the production files.
 
 **Output:** `dist`
 
-### JavaScript Lint
+### TSLint
 
 ```sh
 $ ng lint
 ```
 
-This above command is used to identifying and reporting on patterns in JavaScript on the specified directory.
+This above command is used to identifying and reporting on patterns in Typescript on the specified directory.
 
-### Flow lint
-
-```sh
-$ yarn flow
-```
-
-This above command is used to identifying and reporting on patterns in Flow on the specified files.
 
 ### Test
 
