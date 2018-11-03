@@ -18,6 +18,10 @@ Web application to help poolers to build the perfect pool according to selected 
     - [Build](#build)
     - [JavaScript Lint](#javascript-lint)
     - [Test](#test)
+- [Contributing](#contributing)
+- [Rules](#rules)
+- [Have a question or suggestion?](#have-a-question-or-suggestion)
+- [License](#license)
 
 ---
 
@@ -141,13 +145,13 @@ This above command is used to run all test in the entire project.
 
 ## Rules
 ### Branch naming convention:
-- For a feature : features/{Trello-story-number}
-- For a bug : bugs/{Trello-story-number}
-- For a hotfix : hotfix/{Trello-story-number}
+- For a feature : `features/{Trello-story-number}`
+- For a bug : `bugs/{Trello-story-number}`
+- For a hotfix : `hotfix/{Trello-story-number}`
 - Example: features/HOC-01
 
 ### Commit messages should always start with: 
-- {Trello-story-number}
+- `{Trello-story-number}`
 - This gives us a quick reference point between our Git history and Trello
 - Example: HOC-01: short description
 
