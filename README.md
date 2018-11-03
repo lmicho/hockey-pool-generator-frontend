@@ -18,6 +18,10 @@ Web application to help poolers to build the perfect pool according to selected 
     - [Build](#build)
     - [JavaScript Lint](#javascript-lint)
     - [Test](#test)
+- [Contributing](#contributing)
+- [Rules](#rules)
+- [Have a question or suggestion?](#have-a-question-or-suggestion)
+- [License](#license)
 
 ---
 
