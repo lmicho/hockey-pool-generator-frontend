@@ -140,18 +140,18 @@ This above command is used to run all test in the entire project.
 ---
 
 ## Rules
-##1. Branch naming convention:
+### Branch naming convention:
 - For a feature : features/{Trello-story-number}
 - For a bug : bugs/{Trello-story-number}
 - For a hotfix : hotfix/{Trello-story-number}
 - Example: features/HOC-01
 
-##2. Commit messages should always start with: 
+### Commit messages should always start with: 
 - {Trello-story-number}
 - This gives us a quick reference point between our Git history and Trello
 - Example: HOC-01: short description
 
-##3. Always keep your feature branch up to date with whatever base branch you've stemmed from. Merge the base branch into your feature branch at least once daily.
+### Always keep your feature branch up to date with whatever base branch you've stemmed from. Merge the base branch into your feature branch at least once daily.
 
 ---
 
