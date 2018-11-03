@@ -1,6 +1,7 @@
 
 # Hockey Pool Generator
 
+
 Web application to help poolers to build the perfect pool according to selected parameters such as salary cap and number of players for each position. It generates a complete and balanced team selection based on players statistics and salary. The application also provides numerous useful information like players profiles, games score and teams statistics.
 ---
 
@@ -138,18 +139,18 @@ This above command is used to run all test in the entire project.
 ---
 
 ## Rules
-###1 Branch naming convention:
+1. Branch naming convention:
 - For a feature : features/{Trello-story-number}
 - For a bug : bugs/{Trello-story-number}
 - For a hotfix : hotfix/{Trello-story-number}
 - Example: features/HOC-01
 
-###2 Commit messages should always start with: 
+2. Commit messages should always start with: 
 - {Trello-story-number}
 - This gives us a quick reference point between our Git history and Trello
 - Example: HOC-01: short description
 
-###3Always keep your feature branch up to date with whatever base branch you've stemmed from. Merge the base branch into your feature branch at least once daily.
+3. Always keep your feature branch up to date with whatever base branch you've stemmed from. Merge the base branch into your feature branch at least once daily.
 
 ---
 
