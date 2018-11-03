@@ -145,9 +145,9 @@ This above command is used to run all test in the entire project.
 
 ## Rules
 ### Branch naming convention:
-- For a feature : features/{Trello-story-number}
-- For a bug : bugs/{Trello-story-number}
-- For a hotfix : hotfix/{Trello-story-number}
+- For a feature : (`features/{Trello-story-number}`)
+- For a bug : (`bugs/{Trello-story-number}`)
+- For a hotfix : (`hotfix/{Trello-story-number}`)
 - Example: features/HOC-01
 
 ### Commit messages should always start with: 
