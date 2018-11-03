@@ -151,7 +151,7 @@ This above command is used to run all test in the entire project.
 - Example: features/HOC-01
 
 ### Commit messages should always start with: 
-- {Trello-story-number}
+- (`{Trello-story-number}`)
 - This gives us a quick reference point between our Git history and Trello
 - Example: HOC-01: short description
 
