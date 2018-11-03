@@ -151,7 +151,9 @@ This above command is used to run all test in the entire project.
 - This gives us a quick reference point between our Git history and Trello
 - Example: HOC-01: short description
 
-### Always keep your feature branch up to date with whatever base branch you've stemmed from. Merge the base branch into your feature branch at least once daily.
+### Feature branch history and merge : 
+- Always keep your feature branch up to date with whatever base branch you've stemmed from.
+- Merge the base branch into your feature branch at least once daily.
 
 ---
 
