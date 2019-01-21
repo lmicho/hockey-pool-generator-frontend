@@ -8,11 +8,11 @@ const routes: Routes = [
     children: [
       {
         path: 'home',
-        loadChildren: 'modules/home/home.module#HomeModule'
+        loadChildren: './modules/home/home.module#HomeModule'
       },
       {
         path: 'standings',
-        loadChildren: 'modules/standings/standings.module#StandingsModule'
+        loadChildren: './modules/standings/standings.module#StandingsModule'
       }
     ]
   },
