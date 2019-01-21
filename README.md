@@ -1,5 +1,5 @@
 
-# Hockey Pool Generator
+# Hockey Pool Generator - Frontend
 
 
 Web application to help poolers to build the perfect pool according to selected parameters such as salary cap and number of players for each position. It generates a complete and balanced team selection based on players statistics and salary. The application also provides numerous useful information like players profiles, games score and teams statistics.
