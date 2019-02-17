@@ -170,7 +170,7 @@ This above command is used to run all test in the entire project.
 ---
 
 ## Have a question or suggestion?
-Contact [Paxton](https://www.linkedin.com/in/paxton-eicher/) or [Lauriane](https://www.linkedin.com/in/laurianemichaud/) on LinkedIn, send us an email to jpaxton.w.eicher@gmail.com and  lauriane.b.michaud@gmail.com, or create a pull request on this project.
+Contact [Paxton](https://www.linkedin.com/in/paxton-eicher/) or [Lauriane](https://www.linkedin.com/in/laurianemichaud/) on LinkedIn, send us an email to paxton.w.eicher@gmail.com and  lauriane.b.michaud@gmail.com, or create a pull request on this project.
 
 
 ---
