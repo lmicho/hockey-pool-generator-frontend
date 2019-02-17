@@ -1,3 +1,14 @@
-<p>
-  navigation works!
-</p>
+<div class="navContainer">
+  <div class="navLinks">
+    <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Home</a>
+    <a routerLink="pool-generator" routerLinkActive="active">Pool Generator</a>
+    <a routerLink="standings" routerLinkActive="active">Standings</a>
+    <a routerLink="schedule" routerLinkActive="active">Schedule</a>
+    <a routerLink="players" routerLinkActive="active">Players</a>
+    <a routerLink="injuries" routerLinkActive="active">Injuries</a>
+    <a routerLink="teams" routerLinkActive="active">Teams</a>
+  </div>
+  <div class="navSearch">
+    <input type="text">
+  </div>
+</div>
