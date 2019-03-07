@@ -1,7 +1,10 @@
+@import './../../../styles.scss';
+
+
 :host {
     width: 100%;
     height: 50px;
-    background: #d1d2d3;
+    background: $light-grey;
     display: flex;
     justify-content: center;
 
@@ -15,7 +18,7 @@
     }
 
     a {
-        color: black;
+        color: $black;
         margin-right: 10px;
         font-size: 14px;
         text-transform: uppercase;
@@ -23,7 +26,7 @@
     }
 
     input {
-        background: grey;
+        background: $light-grey;
     }
 
     .active {
@@ -33,10 +36,10 @@
     // Material Search Input
     ::ng-deep .mat-form-field {
         .mat-form-field-label {
-            color: black;
+            color: $black;
         }
         .mat-form-field-underline {
-            background-color: black;
+            background-color: $black;
         }
     }
 
