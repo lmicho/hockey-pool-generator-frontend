@@ -1,3 +1,18 @@
-<p>
-  game-item works!
-</p>
+<a href="#">
+  <div class="game-item">
+    <div class="game-item-teams">
+      <div class="game-item-team top">
+        <img src="{{game.homeTeamLogo}}" alt="{{game.homeTeam}}" class="logo" />
+        <span class="team">{{game.homeTeam}}</span>
+      </div>
+      <div class="game-item-team bottom">
+        <img src="{{game.awayTeamLogo}}" alt="{{game.awayTeam}}" class="logo" />
+        <span class="team">{{game.awayTeam}}</span>
+      </div>
+    </div>
+    <div class="game-item-date-location">
+      <p class="date">{{game.time}}</p>
+      <p class="location">{{game.location}}</p>
+    </div>
+  </div>
+</a>

@@ -1,0 +1,47 @@
+@import "./../../../styles.scss";
+
+.game-item {
+  display: flex;
+  flex-direction: row;
+  width: 160px;
+  padding: 25px;
+  border-right: 1px solid $light-grey;
+  &:hover {
+    box-shadow: 0px 0px 0px 2px $secondary-color inset;
+  }
+}
+
+.game-item-teams {
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+  .game-item-team {
+    display: flex;
+    flex-direction: row;
+    &.top {
+      margin-bottom: 5px;
+    }
+    .team {
+      font-weight: 700;
+      font-size: 14px;
+      color: $black;
+    }
+    .logo {
+      height: 20px;
+      width: 40px;
+    }
+  }
+}
+
+.game-item-date-location {
+  padding-top: 10px;
+  .date,
+  .location {
+    margin: 0;
+    font-size: 12px;
+    color: $black;
+  }
+  .location {
+    color: $dark-grey;
+  }
+}

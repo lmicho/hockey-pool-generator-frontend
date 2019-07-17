@@ -1,5 +1,3 @@
-<p>
-  game-item-scroller works!
-</p>
-
-<game-item></game-item>
+<div class="game-item-scroller">
+  <game-item *ngFor="let game of games" [data]="game"></game-item>
+</div>
